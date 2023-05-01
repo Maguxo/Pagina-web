@@ -36,6 +36,3 @@
 
 </body>
 </html>
-.kjefjbwegbñwebggwe
-ljfosdnlsdnlf
-<s.dkvbsjdlbvsdlvldskvklsd
