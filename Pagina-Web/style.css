@@ -1,7 +1,18 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-
+body::-webkit-scrollbar{
+    width: 15px;
+    }
+    body::-webkit-scrollbar-thumb{
+        background: rgb(90, 105,133);
+        border-radius: 50px;
+    }
+    body::-webkit-scrollbar-thumb:hover{
+        background: rgb(99, 148, 238);
+        
+    }
+    
 header{
     background-color:   #66CCFF;
     padding: 20px 0;
